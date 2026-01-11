@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Home" # edit this to "Home" or "About"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "About" # edit this to "Home" or "About"
 title_separator          : "-"
 name                     : &name "Sonia Yuan"
 description              : &description "personal description"
@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "caltech_ID_profpic.jpeg"
   name             : "Sonia Yuan"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Biophysics PhD Student @ Caltech"
   location         : "Seattle, WA"
   employer         : "Caltech"
   uri              : # URL
@@ -46,7 +46,7 @@ author:
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
-  dribbble         : # Username
+  dribbble         : # Username=-09
   github           : "soniacyuan"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "sonia-yuan-88a23018a"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
