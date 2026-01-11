@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "caltech_ID_profpic.jpeg"
+  avatar           : "caltech_ID_profpic_square.jpeg"
   name             : "Sonia Yuan"
   pronouns         : "she/her"  
   bio              : "Biophysics PhD Student @ Caltech"
