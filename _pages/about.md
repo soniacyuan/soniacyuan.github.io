@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Insert bio here
+I'm Sonia, a second-year PhD student in Prof. Frances Anold's lab. My research broadly focuses on using machine learning to accelerate directed evolution in order to engineer enzymes that can catalyze new-to-nature chemistry. 
+
+
+Education
+------
+
 
 Publications
 ------
-examples
 
-Repos
-------
-examples
 

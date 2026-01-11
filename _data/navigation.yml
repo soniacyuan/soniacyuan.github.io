@@ -18,16 +18,16 @@ main:
   #  url: /teaching/    
     
   #- title: "Portfolio"
-  #  url: /portfolio/
-        
-  #- title: "Blog Posts"
+  #  url: /portfolio/  
+    
+  #- title: "CV" ##### to add!
+  #  url: /cv/
+
+  #- title: "Blog" ##### to add!
   #  url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
+  
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
